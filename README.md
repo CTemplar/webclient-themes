@@ -5,8 +5,10 @@ Themes for CTemplar.com
 
 If you would like to contribute to this repository, please...
 
-[![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/OneWhiteBird/ctemplar-themes/fork)
+[![fork](https://raw.githubusercontent.com/primer/octicons/master/icons/git-fork-24.svg) Fork](https://github.com/OneWhiteBird/ctemplar-themes/fork)
 
-**NOTE** 
+## Requests / Problems
 
-If there are any requests or problems, please open an issue.
+If you would like to request or submit a problem, please...
+
+[![issue](https://raw.githubusercontent.com/primer/octicons/master/icons/issue-opened-16.svg) Issue](https://github.com/OneWhiteBird/ctemplar-themes/issues)
