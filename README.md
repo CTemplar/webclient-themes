@@ -1,5 +1,5 @@
 # CTemplar Themes
-Themes for CTemplar.com
+The official theme repository for CTemplar.com
 
 ## Contributions
 
