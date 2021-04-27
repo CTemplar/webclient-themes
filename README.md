@@ -10,7 +10,7 @@ The official theme repository for mail.ctemplar.com
 6. On GitHub, click on any theme (e.g. *carbon_red.css*).
 7. Click on **Raw**.
 8. Select the text and copy it.
-9. Paste it in the **Custom css** text box in CTemplar.
+9. Paste it in the **Custom CSS** text box in CTemplar.
 10. Enjoy your new theme!
 
 # Preview
