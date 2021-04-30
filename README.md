@@ -23,7 +23,7 @@ The official theme repository for mail.ctemplar.com
 ## Carbon Red
 ![carbon_red](https://user-images.githubusercontent.com/80723977/116143364-f7764b80-a6d2-11eb-8cb3-b658901ce5d9.png)
 
-## Circuitry Red
+## Circuitry Blue
 ![circuity_blue](https://user-images.githubusercontent.com/80723977/116143366-f80ee200-a6d2-11eb-8b27-5f8490bbdf33.png)
 
 ## Dark Pink
