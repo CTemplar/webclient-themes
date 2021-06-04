@@ -1,5 +1,5 @@
 # CTemplar Themes
-The official theme repository for mail.ctemplar.com
+The official themes repository for mail.ctemplar.com
 
 ## How to use?
 1. Login to your CTemplar account.
