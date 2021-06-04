@@ -1,7 +1,9 @@
 # CTemplar Themes
+
 The official themes repository for mail.ctemplar.com
 
 ## How to use?
+
 1. Login to your CTemplar account.
 2. Go to Settings (cogwheel button).
 3. Click on General.
@@ -14,6 +16,7 @@ The official themes repository for mail.ctemplar.com
 10. Enjoy your new theme!
 
 # Preview
+
 ## Carbon Blue
 ![carbon_blue](https://user-images.githubusercontent.com/80723977/116143368-f80ee200-a6d2-11eb-8ced-211e91bd8b85.png)
 
