@@ -1,4 +1,4 @@
-# CTemplar Themes
+# CTemplar themes
 
 The official themes repository for mail.ctemplar.com
 
