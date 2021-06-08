@@ -18,3 +18,4 @@ jobs:
           REMOTE: git@codeberg.org:CTemplar/webclient-themes.git
           GIT_SSH_PRIVATE_KEY: ${{ secrets.CODEBERG_SSH_PRIVATE_KEY }}
           GIT_SSH_NO_VERIFY_HOST: "true"
+          PUSH_ALL_REFS: "false"
