@@ -18,22 +18,25 @@ The official themes repository for mail.ctemplar.com
 # Preview
 
 ## Carbon Blue
-![carbon_blue](https://user-images.githubusercontent.com/80723977/116143368-f80ee200-a6d2-11eb-8ced-211e91bd8b85.png)
+![image](https://user-images.githubusercontent.com/80723977/125774574-8cd94111-e1fc-4bad-8bed-0bc2cbb62778.png)
 
 ## Carbon Green
-![carbon_green](https://user-images.githubusercontent.com/80723977/116143369-f8a77880-a6d2-11eb-82ce-4f607a7f46da.png)
+![image](https://user-images.githubusercontent.com/80723977/125774631-037cf698-d239-4a43-83b5-7d7aa0395272.png)
 
 ## Carbon Red
-![carbon_red](https://user-images.githubusercontent.com/80723977/116143364-f7764b80-a6d2-11eb-8cb3-b658901ce5d9.png)
+![image](https://user-images.githubusercontent.com/80723977/125774690-2f8dacfa-e2e6-46fe-ae77-e4236a3896b5.png)
 
 ## Circuitry Blue
-![circuity_blue](https://user-images.githubusercontent.com/80723977/116143366-f80ee200-a6d2-11eb-8b27-5f8490bbdf33.png)
+![image](https://user-images.githubusercontent.com/80723977/125774773-1b941b90-b5e1-4c7b-a137-b32b55b63688.png)
 
 ## Dark Pink
-![dark_pink](https://user-images.githubusercontent.com/80723977/116143365-f80ee200-a6d2-11eb-8757-1a204896fffc.png)
+![image](https://user-images.githubusercontent.com/80723977/125774807-ef2bb0e2-3f8b-41e5-b466-911a398f80b9.png)
+
+## Neon Pink
+![image](https://user-images.githubusercontent.com/80723977/125775109-af8a3ec5-a311-4eec-b5ed-5ac49690d2b9.png)
 
 ## OLED Grey
-![oled_grey](https://user-images.githubusercontent.com/80723977/116143360-f6ddb500-a6d2-11eb-9150-920ac9fbdd7c.png)
+![image](https://user-images.githubusercontent.com/80723977/125774857-751df956-2789-43c4-ad2e-53738cc46d0e.png)
 
 # Contributions / Requests / Problems
 
