@@ -4,16 +4,14 @@ The official themes repository for mail.ctemplar.com
 
 ## How to use?
 
+Themes are now fully integrated into the webmail!
+
 1. Login to your CTemplar account.
 2. Go to Settings (cogwheel button).
 3. Click on General.
 4. Scroll down to Appearance.
-5. Set dark mode to **enabled**.
-6. On GitHub, click on any theme (e.g. *carbon_red.css*).
-7. Click on **Raw**.
-8. Select the text and copy it.
-9. Paste it in the **Custom CSS** text box in CTemplar.
-10. Enjoy your new theme!
+5. Select a theme from the dropdown menu.
+6. Enjoy your new theme!
 
 # Preview
 
